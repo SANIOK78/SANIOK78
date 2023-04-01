@@ -1,5 +1,5 @@
 
-# ![SANIOK78]()
+# ![SANIOK78](https://github.com/SANIOK78/SANIOK78/blob/main/codeur.gif)
 ### Salut les amis
 
 
@@ -7,15 +7,4 @@
 
 
 
-
-- 🔭 
-- 🌱 
-- 👯 
-- 🤔 .
-- 💬 
-- 📫 Comment me joindre
-<a href=" mailto:aghilev@yahoo.fr " ><img src="" alt=" />
-- 
-- 😄 
-- ⚡ 
 
